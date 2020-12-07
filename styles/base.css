@@ -1,0 +1,23 @@
+*{
+  width: 100%;
+  box-sizing: border-box;
+}
+
+
+
+
+
+section{
+  display: flex;
+  justify-content:center;
+  align-items: center;
+  border: 1.5px solid black;
+  
+ 
+}
+@media(min-width:768px){
+body{
+  max-width:960px;
+  margin: auto;
+ }
+}
