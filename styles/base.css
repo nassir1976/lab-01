@@ -2,22 +2,84 @@
   width: 100%;
   box-sizing: border-box;
 }
-
-
-
-
-
 section{
   display: flex;
   justify-content:center;
   align-items: center;
-  border: 1.5px solid black;
+  border: 1.5px solid black; 
+}
+
+
+@media(min-width:480px){
+  body{
+    max-width:768px;
+    margin: auto;
+   }
+   #a{
+     background-color:aqua ;
+   }
+   #b{
+     background-color:aquamarine ;
+   }
+   #c{
+    background-color:cyan;
+   }
+   #d{
+     background-color:darkturquoise;
+    }
+   #e{
+     background-color:lightblue;
+    }
+   #f{
+    background-color:lightskyblue;
+    }
+   #g{
+    background-color:mediumturquoise;
+     }
+          
+    #h{
+    background-color:lightcyan;
+    }
+    #i{
+    background-color:palegreen;
+   }
+              
+  }
+
+  @media(min-width:768px){
+    body{
+      max-width:960px;
+      margin: auto;
+     }
+     #a{
+       background-color:chocolate ;
+     }
+     #b{
+       background-color:coral ;
+     }
+     #c{
+      background-color:darkgoldenrod;
+     }
+     #d{
+       background-color:darkred;
+      }
+     #e{
+       background-color:indianred;
+      }
+     #f{
+      background-color:maroon;
+      }
+     #g{
+      background-color:lightcoral;
+       }
+            
+      #h{
+      background-color:mediumvioletred;
+      }
+      #i{
+      background-color:saddlebrown;
+     }
+                
+    }
+    
   
- 
-}
-@media(min-width:768px){
-body{
-  max-width:960px;
-  margin: auto;
- }
-}

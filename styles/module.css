@@ -8,7 +8,8 @@
   height: 100px;
   width: 100%;
   font-weight: bold;
-  background-color:tomato;
+  line-height: 100px;
+  
   
 
 }
@@ -19,21 +20,24 @@
   width: 20%;
   float: left;
   font-weight: bold;
-  background-color:gold;
+  line-height: 600px;
+  
 
 }
 #c{
   height: 200px;
   width: 40%;
   float: left;
-  background-color:teal;
+  line-height: 200px;
+  
  
 }
 #d{
   height: 200px;
   width: 40%;
   font-weight: bold;
-  background-color:violet;
+  line-height: 200px;
+  
   
 }
 #e{
@@ -41,7 +45,8 @@
   width: 20%;
   float: left;
   font-weight: bold;
-  background-color:turquoise;
+  line-height: 250px;
+  
 
 }
 #f{
@@ -49,7 +54,8 @@
   width: 20%;
   float: left;
   font-weight: bold;
-  background-color:yellow;
+  line-height: 250px;
+  
 }
 #g{
  
@@ -57,20 +63,23 @@
   width: 20%;
   float: left;
   font-weight: bold;
-  background-color: red;
+  line-height: 250px;
+  
   
 }
 #h{
   height: 250px;
   width: 20%;
   font-weight: bold;
-  background-color:beige;
+  line-height: 250px;
+  
 }
 #i{
   height: 150px;
   width: 80%;
   font-weight: bold;
-  background-color:saddlebrown;
+  line-height: 150px;
+  
 }
 
 }
